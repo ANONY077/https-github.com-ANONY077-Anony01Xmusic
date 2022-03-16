@@ -1,7 +1,7 @@
 ![photo_2022-01-29_07-30-44](https://user-images.githubusercontent.com/87700009/153621620-0eb04e64-bee1-4343-be30-981100b048c1.jpg)
 
 
-<h1 align= center><b>⭐️ HimanshuXD~Music Bot ⭐️</b></h1>
+<h1 align= center><b>⭐️ Danish XD~Music Bot ⭐️</b></h1>
 <h3 align = center> Multi-Assistant | Video Calls | Voice Calls | Heroku Supported</h3>
 
 <p align="center">
