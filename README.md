@@ -72,9 +72,9 @@ bash start
 ## Contact & Support
 
 
-- [Telegram Channel](https://t.me/OfficialYukki")
-- [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [Telegram Channel](https://t.me/ReAl_DaRaMa_cLub21")
+- [Telegram Support Group](https://t.me/ReAl_DaRaMa_cLub21)
+- [Contact Owner](https://t.me/ReAl_DaRaMa_cLub21)
 
 ## Why Yukki?
     
